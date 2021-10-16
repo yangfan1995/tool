@@ -1,0 +1,9 @@
+server:
+  port: 1215
+  servlet:
+    context-path: "/tool"
+#log
+logging:
+  file:
+    path: /usr/local/services
+    name: tool.log
